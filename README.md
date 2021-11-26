@@ -4,4 +4,6 @@ Aplicação desenvolvida para facilitar a busca por combustíveis mais acessíve
 
 Aplicação de uso cooperativo onde os usuários fornecerão dados atualizados.
 
+Solicite acesso: marlon.rodrigues14@outlook.com
+
 V1. 26/11/2021 
